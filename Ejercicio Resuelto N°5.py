@@ -1,4 +1,5 @@
 # Ejercicio resuelto Nº 5 
+
 suma = 0
 X = 20 
 suma = X+suma
