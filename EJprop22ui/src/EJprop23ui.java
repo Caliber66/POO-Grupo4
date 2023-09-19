@@ -2,9 +2,9 @@
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class EJprop22ui extends javax.swing.JFrame {
+public class EJprop23ui extends javax.swing.JFrame {
 
-    public EJprop22ui() {
+    public EJprop23ui() {
         initComponents();
     }
 
@@ -106,7 +106,7 @@ public class EJprop22ui extends javax.swing.JFrame {
     public static void main(String args[]) {
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new EJprop22ui().setVisible(true);
+                new EJprop23ui().setVisible(true);
             }
         });
     }
